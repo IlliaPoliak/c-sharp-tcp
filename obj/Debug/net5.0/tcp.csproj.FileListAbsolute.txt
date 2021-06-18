@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/tcp/bin/Debug/net5.0/tcp.deps.json
+/Users/macbook/Desktop/tcp/bin/Debug/net5.0/tcp.runtimeconfig.json
+/Users/macbook/Desktop/tcp/bin/Debug/net5.0/tcp.runtimeconfig.dev.json
+/Users/macbook/Desktop/tcp/bin/Debug/net5.0/tcp.dll
+/Users/macbook/Desktop/tcp/bin/Debug/net5.0/ref/tcp.dll
+/Users/macbook/Desktop/tcp/bin/Debug/net5.0/tcp.pdb
+/Users/macbook/Desktop/tcp/obj/Debug/net5.0/tcp.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/tcp/obj/Debug/net5.0/tcp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/tcp/obj/Debug/net5.0/tcp.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/tcp/obj/Debug/net5.0/tcp.AssemblyInfo.cs
+/Users/macbook/Desktop/tcp/obj/Debug/net5.0/tcp.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/tcp/obj/Debug/net5.0/tcp.dll
+/Users/macbook/Desktop/tcp/obj/Debug/net5.0/ref/tcp.dll
+/Users/macbook/Desktop/tcp/obj/Debug/net5.0/tcp.pdb
+/Users/macbook/Desktop/tcp/obj/Debug/net5.0/tcp.genruntimeconfig.cache
